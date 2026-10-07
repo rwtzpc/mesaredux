@@ -1,7 +1,0 @@
----
----
-
-{
-    "build_revision": "{{ site.time | date: '%s' }}",
-    "build_date": "{{ site.time | date: '%Y-%m-%d %H:%M:%S %Z' }}"
-}
